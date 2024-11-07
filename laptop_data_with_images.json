@@ -1,0 +1,504 @@
+{
+    "laptops" : [
+    {
+        "id": 1,
+        "title": "Silva Ltd Laptop",
+        "description": "Field I friend window control.",
+        "rating": 4.4,
+        "processor": "Intel i7",
+        "ram_size": "32GB",
+        "storage": "512GB SSD",
+        "image_url": "https://via.placeholder.com/150?text=Laptop+1"
+    },
+    {
+        "id": 2,
+        "title": "Johnson Group Laptop",
+        "description": "Strong phone school man.",
+        "rating": 4.4,
+        "processor": "AMD Ryzen 5",
+        "ram_size": "16GB",
+        "storage": "512GB SSD",
+        "image_url": "https://via.placeholder.com/150?text=Laptop+2"
+    },
+    {
+        "id": 3,
+        "title": "Williams-Cisneros Laptop",
+        "description": "Five friend thought read change question.",
+        "rating": 4.1,
+        "processor": "AMD Ryzen 5",
+        "ram_size": "16GB",
+        "storage": "512GB SSD",
+        "image_url": "https://via.placeholder.com/150?text=Laptop+3"
+    },
+    {
+        "id": 4,
+        "title": "Miller-Anderson Laptop",
+        "description": "Hair itself year recent high form long.",
+        "rating": 4.2,
+        "processor": "AMD Ryzen 7",
+        "ram_size": "16GB",
+        "storage": "1024GB SSD",
+        "image_url": "https://via.placeholder.com/150?text=Laptop+4"
+    },
+    {
+        "id": 5,
+        "title": "Harvey Ltd Laptop",
+        "description": "Control statement really street just.",
+        "rating": 4.4,
+        "processor": "AMD Ryzen 7",
+        "ram_size": "8GB",
+        "storage": "1024GB SSD",
+        "image_url": "https://via.placeholder.com/150?text=Laptop+5"
+    },
+    {
+        "id": 6,
+        "title": "Walsh, Wilson and Miles Laptop",
+        "description": "Nearly behind either sense worker year no itself.",
+        "rating": 3.9,
+        "processor": "Intel i7",
+        "ram_size": "8GB",
+        "storage": "1024GB SSD",
+        "image_url": "https://via.placeholder.com/150?text=Laptop+6"
+    },
+    {
+        "id": 7,
+        "title": "Nielsen-Adams Laptop",
+        "description": "Sport garden account save yes give.",
+        "rating": 4.3,
+        "processor": "Intel i7",
+        "ram_size": "8GB",
+        "storage": "256GB SSD",
+        "image_url": "https://via.placeholder.com/150?text=Laptop+7"
+    },
+    {
+        "id": 8,
+        "title": "Hall PLC Laptop",
+        "description": "Yes allow agency office.",
+        "rating": 4.0,
+        "processor": "Intel i5",
+        "ram_size": "16GB",
+        "storage": "512GB SSD",
+        "image_url": "https://via.placeholder.com/150?text=Laptop+8"
+    },
+    {
+        "id": 9,
+        "title": "Hamilton PLC Laptop",
+        "description": "Director season health benefit key reduce.",
+        "rating": 3.6,
+        "processor": "Intel i7",
+        "ram_size": "8GB",
+        "storage": "256GB SSD",
+        "image_url": "https://via.placeholder.com/150?text=Laptop+9"
+    },
+    {
+        "id": 10,
+        "title": "Jennings LLC Laptop",
+        "description": "Without little crime population.",
+        "rating": 4.5,
+        "processor": "AMD Ryzen 5",
+        "ram_size": "32GB",
+        "storage": "512GB SSD",
+        "image_url": "https://via.placeholder.com/150?text=Laptop+10"
+    },
+    {
+        "id": 11,
+        "title": "Morales and Sons Laptop",
+        "description": "Speak major without parent ago.",
+        "rating": 4.5,
+        "processor": "AMD Ryzen 5",
+        "ram_size": "16GB",
+        "storage": "512GB SSD",
+        "image_url": "https://via.placeholder.com/150?text=Laptop+11"
+    },
+    {
+        "id": 12,
+        "title": "Cameron PLC Laptop",
+        "description": "Several investment condition cultural.",
+        "rating": 4.5,
+        "processor": "AMD Ryzen 7",
+        "ram_size": "16GB",
+        "storage": "512GB SSD",
+        "image_url": "https://via.placeholder.com/150?text=Laptop+12"
+    },
+    {
+        "id": 13,
+        "title": "Holt and Sons Laptop",
+        "description": "Teach read morning include turn.",
+        "rating": 3.9,
+        "processor": "AMD Ryzen 5",
+        "ram_size": "16GB",
+        "storage": "256GB SSD",
+        "image_url": "https://via.placeholder.com/150?text=Laptop+13"
+    },
+    {
+        "id": 14,
+        "title": "Martin-Gutierrez Laptop",
+        "description": "Night quickly mind social expect.",
+        "rating": 4.1,
+        "processor": "Intel i7",
+        "ram_size": "16GB",
+        "storage": "256GB SSD",
+        "image_url": "https://via.placeholder.com/150?text=Laptop+14"
+    },
+    {
+        "id": 15,
+        "title": "Walker-Fox Laptop",
+        "description": "Throughout product once night tonight baby.",
+        "rating": 4.6,
+        "processor": "AMD Ryzen 5",
+        "ram_size": "8GB",
+        "storage": "1024GB SSD",
+        "image_url": "https://via.placeholder.com/150?text=Laptop+15"
+    },
+    {
+        "id": 16,
+        "title": "Spencer, Meza and Lowe Laptop",
+        "description": "Hear management cause computer.",
+        "rating": 4.6,
+        "processor": "Intel i5",
+        "ram_size": "8GB",
+        "storage": "1024GB SSD",
+        "image_url": "https://via.placeholder.com/150?text=Laptop+16"
+    },
+    {
+        "id": 17,
+        "title": "Davis Group Laptop",
+        "description": "Sign news traditional.",
+        "rating": 3.7,
+        "processor": "AMD Ryzen 5",
+        "ram_size": "16GB",
+        "storage": "1024GB SSD",
+        "image_url": "https://via.placeholder.com/150?text=Laptop+17"
+    },
+    {
+        "id": 18,
+        "title": "Owen-Williams Laptop",
+        "description": "National structure plan space hair.",
+        "rating": 4.7,
+        "processor": "Intel i7",
+        "ram_size": "16GB",
+        "storage": "256GB SSD",
+        "image_url": "https://via.placeholder.com/150?text=Laptop+18"
+    },
+    {
+        "id": 19,
+        "title": "Singleton, Powell and Hernandez Laptop",
+        "description": "Audience leg know little world.",
+        "rating": 3.6,
+        "processor": "AMD Ryzen 5",
+        "ram_size": "32GB",
+        "storage": "1024GB SSD",
+        "image_url": "https://via.placeholder.com/150?text=Laptop+19"
+    },
+    {
+        "id": 20,
+        "title": "Joseph, Mitchell and Cardenas Laptop",
+        "description": "Place alone size professional.",
+        "rating": 4.9,
+        "processor": "AMD Ryzen 7",
+        "ram_size": "32GB",
+        "storage": "1024GB SSD",
+        "image_url": "https://via.placeholder.com/150?text=Laptop+20"
+    },
+    {
+        "id": 21,
+        "title": "Miller LLC Laptop",
+        "description": "Medical stock item.",
+        "rating": 4.2,
+        "processor": "Intel i5",
+        "ram_size": "32GB",
+        "storage": "256GB SSD",
+        "image_url": "https://via.placeholder.com/150?text=Laptop+21"
+    },
+    {
+        "id": 22,
+        "title": "Forbes Ltd Laptop",
+        "description": "Dog save draw long sport.",
+        "rating": 3.8,
+        "processor": "Intel i7",
+        "ram_size": "16GB",
+        "storage": "512GB SSD",
+        "image_url": "https://via.placeholder.com/150?text=Laptop+22"
+    },
+    {
+        "id": 23,
+        "title": "Smith Group Laptop",
+        "description": "Data toward fish interesting action the drive within.",
+        "rating": 3.7,
+        "processor": "Intel i7",
+        "ram_size": "8GB",
+        "storage": "1024GB SSD",
+        "image_url": "https://via.placeholder.com/150?text=Laptop+23"
+    },
+    {
+        "id": 24,
+        "title": "Stephenson-Goodman Laptop",
+        "description": "Partner six middle serious everything herself drive.",
+        "rating": 4.7,
+        "processor": "Intel i7",
+        "ram_size": "8GB",
+        "storage": "512GB SSD",
+        "image_url": "https://via.placeholder.com/150?text=Laptop+24"
+    },
+    {
+        "id": 25,
+        "title": "Cummings Group Laptop",
+        "description": "Source claim local pressure dream field.",
+        "rating": 4.7,
+        "processor": "AMD Ryzen 7",
+        "ram_size": "32GB",
+        "storage": "256GB SSD",
+        "image_url": "https://via.placeholder.com/150?text=Laptop+25"
+    },
+    {
+        "id": 26,
+        "title": "Thornton-Bailey Laptop",
+        "description": "Indicate same section couple.",
+        "rating": 4.2,
+        "processor": "Intel i7",
+        "ram_size": "16GB",
+        "storage": "1024GB SSD",
+        "image_url": "https://via.placeholder.com/150?text=Laptop+26"
+    },
+    {
+        "id": 27,
+        "title": "Robinson, Miller and Weeks Laptop",
+        "description": "Fire key knowledge growth.",
+        "rating": 4.6,
+        "processor": "AMD Ryzen 5",
+        "ram_size": "16GB",
+        "storage": "1024GB SSD",
+        "image_url": "https://via.placeholder.com/150?text=Laptop+27"
+    },
+    {
+        "id": 28,
+        "title": "Fisher, Miller and Johnson Laptop",
+        "description": "Customer go window letter surface.",
+        "rating": 4.5,
+        "processor": "Intel i5",
+        "ram_size": "8GB",
+        "storage": "1024GB SSD",
+        "image_url": "https://via.placeholder.com/150?text=Laptop+28"
+    },
+    {
+        "id": 29,
+        "title": "Osborne-Wolf Laptop",
+        "description": "Would choice despite standard hope deal someone check.",
+        "rating": 3.8,
+        "processor": "Intel i7",
+        "ram_size": "8GB",
+        "storage": "1024GB SSD",
+        "image_url": "https://via.placeholder.com/150?text=Laptop+29"
+    },
+    {
+        "id": 30,
+        "title": "Washington, Gilmore and Hernandez Laptop",
+        "description": "Late tough involve number agreement.",
+        "rating": 4.7,
+        "processor": "AMD Ryzen 5",
+        "ram_size": "16GB",
+        "storage": "1024GB SSD",
+        "image_url": "https://via.placeholder.com/150?text=Laptop+30"
+    },
+    {
+        "id": 31,
+        "title": "Soto LLC Laptop",
+        "description": "Little modern market product live.",
+        "rating": 4.0,
+        "processor": "AMD Ryzen 5",
+        "ram_size": "16GB",
+        "storage": "512GB SSD",
+        "image_url": "https://via.placeholder.com/150?text=Laptop+31"
+    },
+    {
+        "id": 32,
+        "title": "Morales, Bowers and Cross Laptop",
+        "description": "Make much assume.",
+        "rating": 3.5,
+        "processor": "AMD Ryzen 7",
+        "ram_size": "32GB",
+        "storage": "256GB SSD",
+        "image_url": "https://via.placeholder.com/150?text=Laptop+32"
+    },
+    {
+        "id": 33,
+        "title": "Beasley, Ross and Gonzales Laptop",
+        "description": "Development yes occur case wife continue including a.",
+        "rating": 3.7,
+        "processor": "AMD Ryzen 7",
+        "ram_size": "8GB",
+        "storage": "512GB SSD",
+        "image_url": "https://via.placeholder.com/150?text=Laptop+33"
+    },
+    {
+        "id": 34,
+        "title": "Davenport, Johnson and Perez Laptop",
+        "description": "Wide person service former want specific southern.",
+        "rating": 4.7,
+        "processor": "AMD Ryzen 5",
+        "ram_size": "32GB",
+        "storage": "512GB SSD",
+        "image_url": "https://via.placeholder.com/150?text=Laptop+34"
+    },
+    {
+        "id": 35,
+        "title": "Henry-Humphrey Laptop",
+        "description": "American thank model it.",
+        "rating": 4.5,
+        "processor": "Intel i7",
+        "ram_size": "32GB",
+        "storage": "512GB SSD",
+        "image_url": "https://via.placeholder.com/150?text=Laptop+35"
+    },
+    {
+        "id": 36,
+        "title": "Morgan PLC Laptop",
+        "description": "Central too employee up major.",
+        "rating": 3.8,
+        "processor": "Intel i5",
+        "ram_size": "16GB",
+        "storage": "1024GB SSD",
+        "image_url": "https://via.placeholder.com/150?text=Laptop+36"
+    },
+    {
+        "id": 37,
+        "title": "Johnson-Jones Laptop",
+        "description": "Phone lot attention tough structure nothing charge.",
+        "rating": 4.1,
+        "processor": "AMD Ryzen 5",
+        "ram_size": "16GB",
+        "storage": "1024GB SSD",
+        "image_url": "https://via.placeholder.com/150?text=Laptop+37"
+    },
+    {
+        "id": 38,
+        "title": "Harris-Kidd Laptop",
+        "description": "In rich pressure director.",
+        "rating": 5.0,
+        "processor": "Intel i5",
+        "ram_size": "8GB",
+        "storage": "256GB SSD",
+        "image_url": "https://via.placeholder.com/150?text=Laptop+38"
+    },
+    {
+        "id": 39,
+        "title": "Kelley-Donovan Laptop",
+        "description": "Concern analysis practice while.",
+        "rating": 4.0,
+        "processor": "AMD Ryzen 5",
+        "ram_size": "16GB",
+        "storage": "1024GB SSD",
+        "image_url": "https://via.placeholder.com/150?text=Laptop+39"
+    },
+    {
+        "id": 40,
+        "title": "Garcia-Marks Laptop",
+        "description": "Head moment door north property case.",
+        "rating": 4.3,
+        "processor": "AMD Ryzen 5",
+        "ram_size": "32GB",
+        "storage": "256GB SSD",
+        "image_url": "https://via.placeholder.com/150?text=Laptop+40"
+    },
+    {
+        "id": 41,
+        "title": "Hall Group Laptop",
+        "description": "Simple water well speak young season head sign.",
+        "rating": 3.9,
+        "processor": "AMD Ryzen 5",
+        "ram_size": "8GB",
+        "storage": "512GB SSD",
+        "image_url": "https://via.placeholder.com/150?text=Laptop+41"
+    },
+    {
+        "id": 42,
+        "title": "Smith Ltd Laptop",
+        "description": "Then price per commercial.",
+        "rating": 4.6,
+        "processor": "AMD Ryzen 7",
+        "ram_size": "8GB",
+        "storage": "256GB SSD",
+        "image_url": "https://via.placeholder.com/150?text=Laptop+42"
+    },
+    {
+        "id": 43,
+        "title": "Robinson-Nichols Laptop",
+        "description": "Firm subject break former everyone smile way.",
+        "rating": 3.6,
+        "processor": "Intel i5",
+        "ram_size": "8GB",
+        "storage": "1024GB SSD",
+        "image_url": "https://via.placeholder.com/150?text=Laptop+43"
+    },
+    {
+        "id": 44,
+        "title": "Benson-Bender Laptop",
+        "description": "Onto discover hair current.",
+        "rating": 4.6,
+        "processor": "AMD Ryzen 5",
+        "ram_size": "16GB",
+        "storage": "512GB SSD",
+        "image_url": "https://via.placeholder.com/150?text=Laptop+44"
+    },
+    {
+        "id": 45,
+        "title": "Stephens-Mack Laptop",
+        "description": "Environmental there recently trial suggest happen consumer.",
+        "rating": 3.5,
+        "processor": "Intel i5",
+        "ram_size": "8GB",
+        "storage": "512GB SSD",
+        "image_url": "https://via.placeholder.com/150?text=Laptop+45"
+    },
+    {
+        "id": 46,
+        "title": "Jones, Norton and Carr Laptop",
+        "description": "Resource discuss late.",
+        "rating": 4.8,
+        "processor": "Intel i7",
+        "ram_size": "8GB",
+        "storage": "256GB SSD",
+        "image_url": "https://via.placeholder.com/150?text=Laptop+46"
+    },
+    {
+        "id": 47,
+        "title": "Garcia, Hardy and Willis Laptop",
+        "description": "Paper over see indeed.",
+        "rating": 4.4,
+        "processor": "Intel i5",
+        "ram_size": "16GB",
+        "storage": "512GB SSD",
+        "image_url": "https://via.placeholder.com/150?text=Laptop+47"
+    },
+    {
+        "id": 48,
+        "title": "Fleming, Good and Castro Laptop",
+        "description": "See yes song front rise man.",
+        "rating": 4.1,
+        "processor": "AMD Ryzen 5",
+        "ram_size": "8GB",
+        "storage": "512GB SSD",
+        "image_url": "https://via.placeholder.com/150?text=Laptop+48"
+    },
+    {
+        "id": 49,
+        "title": "Campbell PLC Laptop",
+        "description": "Ball second establish.",
+        "rating": 4.5,
+        "processor": "Intel i5",
+        "ram_size": "32GB",
+        "storage": "1024GB SSD",
+        "image_url": "https://via.placeholder.com/150?text=Laptop+49"
+    },
+    {
+        "id": 50,
+        "title": "Cox, Lamb and Beck Laptop",
+        "description": "Serious race daughter feel.",
+        "rating": 4.2,
+        "processor": "Intel i7",
+        "ram_size": "16GB",
+        "storage": "1024GB SSD",
+        "image_url": "https://via.placeholder.com/150?text=Laptop+50"
+    }
+    ]
+}
